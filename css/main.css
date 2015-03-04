@@ -29,15 +29,15 @@ height: 1.75rem;
 margin-top: 25px;
 }
 
-.button1 {
+button {
 font-size: 1em;
 font-family: sans-serif;
-color: #ffffff;
+color: black;
 cursor: pointer;
 width: 100px;
-height: 60px;
+height: 1.75rem;
 text-align:center;
-border:#FFFFFF solid 2px;
+border:black solid 2px;
 background: rgba(230,207,207,0.00);
 }
 
