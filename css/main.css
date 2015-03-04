@@ -41,4 +41,8 @@ border:black solid 2px;
 background: rgba(230,207,207,0.00);
 }
 
+.strike {
+text-decoration: line-through;
+color: #8F7D5A;
+}
 
