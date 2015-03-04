@@ -17,3 +17,28 @@ text-size-adjust: 100%;
 *, *::before, *::after {
 	box-sizing: inherit;
 }
+
+
+
+.box {
+background-color: #FFFFFF;
+border: 1.5px solid black;
+width: 75%;
+display: inline-block;
+height: 1.75rem;
+margin-top: 25px;
+}
+
+.button1 {
+font-size: 1em;
+font-family: sans-serif;
+color: #ffffff;
+cursor: pointer;
+width: 100px;
+height: 60px;
+text-align:center;
+border:#FFFFFF solid 2px;
+background: rgba(230,207,207,0.00);
+}
+
+
